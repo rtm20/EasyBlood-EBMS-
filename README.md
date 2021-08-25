@@ -1,4 +1,4 @@
-# EasyBlood-EBMS-
+# EasyBlood-EBMS- https://rtm20.github.io/EasyBlood-EBMS-/easy%20blood/blood.html
 EBMS stands for easy blood management system. It is basically an On-campus project to  find the most secure available blood donor using the student database.
 
 1) Clone or Download the file.
